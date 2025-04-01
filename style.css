@@ -1,0 +1,35 @@
+/* Background Image */
+body {
+    background-image: url("https://img.freepik.com/premium-photo/online-learning-design-concept-top-view-student-table-with-computer-headphone-stationeries-blue-table-background_315337-4613.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* Arrow Link Styles */
+
+.arrow-link:hover {
+    /* text-decoration: underline; */
+    text-align: right;
+    color: #0056b3;
+}
+
+/* Card Styles - Optional for more design */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* Footer */
+footer {
+    font-size: 15px;
+    padding-top: 4px;
+}
+
